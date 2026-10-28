@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brendan-hellman.github.io/sitemap.xml
